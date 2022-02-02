@@ -17,6 +17,11 @@ This sample shows how to use the libraries to build
 a complete basic app that implements the recommended architecture
 and can be used as a template for further explorations.
 
+Edit
+----
+All files in this repository are from [CodeLab](https://developer.android.com/codelabs/android-room-with-a-view-kotlin)
+Some fitures are upgraded and I use video from [Universidade Código](https://youtu.be/exLQuE9ZaK0)
+for my reference.
 
 Pre-requisites
 --------------
